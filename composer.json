@@ -1,0 +1,20 @@
+{
+    "name": "gusta/portifolio-gustavo-nasc",
+    "description": "PortifolioGustavoR",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^3.7",
+        "phpunit/phpunit": "^11.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gusta\\PortifolioGustavoNasc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Ribeiro",
+            "email": "gugzribeiro@gmail.com"
+        }
+    ]
+}
