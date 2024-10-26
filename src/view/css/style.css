@@ -1,0 +1,12 @@
+/* Add your CSS rules below */
+body {
+	background-color: #f0f0f0;
+	font-family: Arial, sans-serif;
+} 
+.navbaar {
+    margin-bottom: 20px;
+}
+.portifolio-item {
+    margin-bottom: 30px;
+}
+
